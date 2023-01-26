@@ -16,8 +16,9 @@ Check your system's maximum column with the pd.options.disply.max_column stateme
 Increase the maximum number of rowa to display the entire DataFrame
 
 ## PROGRAM:
-#DEVELOPED BY : R Manojkarthik
-#REGISTER NUMBER : 22003728
+```
+DEVELOPED BY : R Manojkarthik
+REGISTER NUMBER : 22003728
 ```
 import pandas as pd
 df= pd.read_csv("nba.csv")
