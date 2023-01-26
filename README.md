@@ -17,6 +17,7 @@ Increase the maximum number of rowa to display the entire DataFrame
 
 ## PROGRAM:
 DEVELOPED BY : R Manojkarthik
+
 REGISTER NUMBER : 22003728
 ```
 import pandas as pd
