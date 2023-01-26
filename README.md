@@ -18,14 +18,14 @@ Increase the maximum number of rowa to display the entire DataFrame
 ## PROGRAM:
 #DEVELOPED BY : R Manojkarthik
 #REGISTER NUMBER : 22003728
-
+```
 import pandas as pd
 df= pd.read_csv("nba.csv")
 print(df.head(10))
 print(df.tail())
 print("column",len(df.axes[0]))
 print("rows",len(df.axes[1]))
-
+```
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/119560395/214846063-dd1caaf4-eb5f-4100-b021-8cab9e806948.png)
 
